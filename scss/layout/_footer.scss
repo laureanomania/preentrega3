@@ -1,0 +1,13 @@
+footer{
+    background-color: black;
+    text-align: center;
+    color: beige;
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+    grid-template-rows: 3fr 3fr;
+    column-gap: 14px;
+    row-gap: 10px;
+    justify-items: center;
+  }
+
+ 

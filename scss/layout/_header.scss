@@ -1,0 +1,26 @@
+header{
+    background-color: black;
+    
+  }
+  @media (max-width:320px){
+    header{
+      flex-direction: column;
+      background-color: rgb(60, 91, 111);
+      }
+      .nav{
+        align-content: center;
+      }
+      .div .h2 .p{
+        align-content: center;
+      }
+}
+
+@media (max-width:768px){
+  header{
+    flex-direction: column;
+    background-color: rgb(21, 52, 72);
+    }
+    .nav{
+      align-content: center;
+    }
+    }

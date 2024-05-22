@@ -1,0 +1,14 @@
+<svg width="204" height="211" viewBox="0 0 204 211" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M102 112L55.333 85.3333V28.6666L102 55.3333V112Z" stroke="#222829" stroke-width="4" stroke-linejoin="round"/>
+<path d="M102 55.3333L148.667 28.6666V85.3333L102 112" stroke="#222829" stroke-width="4" stroke-linejoin="round"/>
+<path d="M55.333 28.6667L102 2L148.666 28.6667" stroke="#222829" stroke-width="4" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M48.6667 208.667L2 182V125.333L48.6667 152V208.667Z" stroke="#222829" stroke-width="4" stroke-linejoin="round"/>
+<path d="M48.667 152L95.3337 125.333V182L48.667 208.667" stroke="#222829" stroke-width="4" stroke-linejoin="round"/>
+<path d="M2 125.333L48.6667 98.6667L95.3333 125.333" stroke="#222829" stroke-width="4" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M155.334 208.667L108.667 182V125.333L155.334 152V208.667Z" stroke="#222829" stroke-width="4" stroke-linejoin="round"/>
+<path d="M155.334 152L202.001 125.333V182L155.334 208.667" stroke="#222829" stroke-width="4" stroke-linejoin="round"/>
+<path d="M108.667 125.333L155.334 98.6667L202 125.333" stroke="#222829" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="165.333" cy="82.0001" r="3.33333" stroke="#222829" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="38.6663" cy="82.0001" r="3.33333" stroke="#222829" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="102" cy="198.667" r="3.33333" stroke="#222829" stroke-width="4" stroke-linejoin="round"/>
+</svg>
